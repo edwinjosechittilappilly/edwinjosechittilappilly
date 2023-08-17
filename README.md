@@ -119,3 +119,10 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="mailto:edwinjose900@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
+
+
+[![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/edwinjosechittilappilly/)
+[![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/edwinjosechittilappilly/) [![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/edwinjosechittilappilly/)
+[![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/edwinjosechittilappilly/) [![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/edwinjosechittilappilly/)
+
+
