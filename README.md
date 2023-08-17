@@ -11,7 +11,10 @@ Hi, I'm Edwin Jose!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PhD+Computer+Science+Student;Quantum+computing+%7C+AIML+Enthusiast" alt="Typing SVG" /></a>
 </p>
 <hr/>
-[![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/edwinjosechittilappilly/)
+<!-- [![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/edwinjosechittilappilly/) -->
+<p align="center">
+  <a href="[https://git.io/typing-svg](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/0-profile-details.svg)"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PhD+Computer+Science+Student;Quantum+computing+%7C+AIML+Enthusiast](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/0-profile-details.svg)" alt="Typing SVG" /></a>
+</p>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
