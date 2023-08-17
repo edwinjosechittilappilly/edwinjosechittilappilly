@@ -8,7 +8,7 @@ Hi, I'm Edwin Jose!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=PhD Computer+Science+Student;Quantum Computing;QC%20|DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 <samp>
@@ -20,7 +20,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashitanamdeo&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinjosechittilappilly&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
@@ -89,8 +89,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashitanamdeo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashitanamdeo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edwinjosechittilappilly&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjosechittilappilly&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -99,7 +99,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=yashitanamdeo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=edwinjosechittilappilly&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
@@ -108,12 +108,12 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/yashitanamdeo" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://edwinjosechittilappilly.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/edwinjosechittilappilly" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/edwinjosechittilappilly/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/edwinjosechittilappilly/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/edwinjosechittilappilly/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![@yashitanamdeo's Holopin board](https://holopin.io/api/user/board?user=yashitanamdeo)](https://holopin.io/@yashitanamdeo)
+[![@edwinjosechittilappilly's Holopin board](https://holopin.io/api/user/board?user=edwinjosechittilappilly)](https://holopin.io/@edwinjosechittilappilly)
