@@ -98,9 +98,12 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=edwinjosechittilappilly&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <br/>
+<!--   <br/>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=edwinjosechittilappilly&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    -->
+   [![Edwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinjosechittilappilly)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--    </a>
+  <br/> -->
 </details>
 
 <!-- https://github.com/sisodiya2421 -->
