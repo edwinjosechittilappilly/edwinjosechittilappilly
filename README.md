@@ -12,7 +12,7 @@ Hi, I'm Edwin Jose!
 
 <hr/>
 <!-- [![](https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/edwinjosechittilappilly/) -->
- <img src="https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/0-profile-details.svg" align='center' alt="edwinjosechittilappilly" />
+<!--  <img src="https://raw.githubusercontent.com/edwinjosechittilappilly/edwinjosechittilappilly/master/profile-summary-card-output/nord_bright/0-profile-details.svg" align='center' alt="edwinjosechittilappilly" /> -->
  </p>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
