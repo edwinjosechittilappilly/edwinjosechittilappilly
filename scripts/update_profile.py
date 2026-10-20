@@ -162,7 +162,7 @@ def profile_svg(projects, updated, theme, mobile):
     width = 420 if mobile else 960
     margin = 20 if mobile else 32
     inner = width - 2 * margin
-    content = text(margin, 73 if mobile else 91, "Edwin Jose, PhD", colors["text"], 42 if mobile else 60, 700)
+    content = text(margin, 73 if mobile else 91, "Edwin Jose", colors["text"], 42 if mobile else 60, 700)
     cursor = 118 if mobile else 139
     for value, size, color in (
         ("AI product & solution architecture", 23 if mobile else 27, colors["accent"]),
@@ -198,13 +198,13 @@ def profile_svg(projects, updated, theme, mobile):
         + "; ".join(f'{p["name"]}: {p["merged_pull_requests"]} merged pull requests' for p in projects)
         + ". Selected peer-reviewed publications, architecture practice, recognition and technical toolkit. Full accessible details and paper links are available on the linked portfolio.")
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title description">'
-        f'<title id="title">Edwin Jose, PhD: engineering and research profile</title><desc id="description">{escape(description)}</desc>'
+        f'<title id="title">Edwin Jose: engineering and research profile</title><desc id="description">{escape(description)}</desc>'
         f'<rect width="{width}" height="{height}" rx="18" fill="{colors["bg"]}"/>'
         '<g font-family="Arial, Helvetica, sans-serif">' + content + '</g></svg>\n')
 
 
 def profile_markdown(projects):
-    alt = escape("Edwin Jose, PhD. Software Engineer at IBM focused on AI product and solution architecture. "
+    alt = escape("Edwin Jose. Software Engineer at IBM focused on AI product and solution architecture. "
         + "; ".join(f'{p["name"]}: {p["merged_pull_requests"]:,} merged public pull requests' for p in projects)
         + ". Selected publications, architecture practice, recognition and toolkit. Use the links below for the accessible portfolio and individual papers.", quote=True)
     return ('<picture>\n'
