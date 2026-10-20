@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "retrieved_on": "2026-10-20",
+  "usage_notice": "Public project previews identify the referenced open-source projects; they do not imply endorsement or sole authorship. Repository licenses are retained with each project.",
+  "images": [
+    {
+      "path": "assets/projects/openrag.webp",
+      "kind": "public_project_preview",
+      "description": "Official public OpenRAG documentation screenshot: dark chat interface answering How is OpenRAG built? with a completed document-search tool call.",
+      "repository": "https://github.com/langflow-ai/openrag",
+      "commit": "0f86d17b7d5f23382f0567185bc03594c24e28a6",
+      "source_path": "docs/static/img/chat_openrag.png",
+      "source_blob_sha": "75dd1b84f3cea4b6df7e25ecc02487586e5826b5",
+      "source_url": "https://raw.githubusercontent.com/langflow-ai/openrag/0f86d17b7d5f23382f0567185bc03594c24e28a6/docs/static/img/chat_openrag.png",
+      "source_sha256": "4abb47981e23ca8f91014ae6d745b99b44a800ef9cea94c312bef8f3c3ead084",
+      "source_bytes": 461769,
+      "source_dimensions": { "width": 3080, "height": 1304 },
+      "license": "Apache-2.0",
+      "license_file": {
+        "source_url": "https://raw.githubusercontent.com/langflow-ai/openrag/0f86d17b7d5f23382f0567185bc03594c24e28a6/LICENSE",
+        "sha256": "8d67273d7914c448a75fad189feff38ec63d8bce2fcf64126f47e2e777633a48",
+        "path": "assets/licenses/openrag-LICENSE.txt"
+      },
+      "transform": {
+        "tool": "cwebp",
+        "quality": 88,
+        "method": 6,
+        "resize_width": 1600,
+        "crop": null,
+        "notes": "Full source composition retained; downscaled with preserved aspect ratio."
+      },
+      "width": 1600,
+      "height": 678,
+      "bytes": 90308,
+      "sha256": "fa2e1cc05e98d2d45f0314e22304d8d709c583e976fa4cf6d95031103fb765ea",
+      "visually_reviewed": true
+    },
+    {
+      "path": "assets/projects/langflow.webp",
+      "kind": "public_project_preview",
+      "description": "Official public Langflow documentation screenshot: Simple Agent visual canvas connecting URL and calculator tools, Chat Input, an Agent, and Chat Output.",
+      "repository": "https://github.com/langflow-ai/langflow",
+      "commit": "972d56c47d3830d17060ee85cfaad152df823041",
+      "source_path": "docs/static/img/quickstart-simple-agent-flow.png",
+      "source_blob_sha": "448ed2732d901861231e4dca3a7bcb4301047192",
+      "source_url": "https://raw.githubusercontent.com/langflow-ai/langflow/972d56c47d3830d17060ee85cfaad152df823041/docs/static/img/quickstart-simple-agent-flow.png",
+      "source_sha256": "d416f91bddb1dacc007fc06633bcd469ae66a7946cea964e836d79064a572ea2",
+      "source_bytes": 993349,
+      "source_dimensions": { "width": 4000, "height": 2300 },
+      "license": "MIT",
+      "license_file": {
+        "source_url": "https://raw.githubusercontent.com/langflow-ai/langflow/972d56c47d3830d17060ee85cfaad152df823041/LICENSE",
+        "sha256": "48d4a7496209a9e1f2f549384251b69319360c3a38127cf513473590be383359",
+        "path": "assets/licenses/langflow-LICENSE.txt"
+      },
+      "transform": {
+        "tool": "cwebp",
+        "quality": 88,
+        "method": 6,
+        "resize_width": 1600,
+        "crop": null,
+        "notes": "Full source composition retained; downscaled with preserved aspect ratio."
+      },
+      "width": 1600,
+      "height": 920,
+      "bytes": 72424,
+      "sha256": "4ceb864a3f0f8fb5f93a6f92318c75acf27e961c5aef50c294e2a77d12491389",
+      "visually_reviewed": true
+    },
+    {
+      "path": "assets/projects/quoptuna.webp",
+      "kind": "public_project_brand_artwork",
+      "description": "Official Quoptuna repository social-preview brand artwork with cyan/violet Q mark and QuOptuna wordmark. This is brand artwork, not a product UI screenshot.",
+      "repository": "https://github.com/Qentora/quoptuna",
+      "commit": "3af60f7295d14dc580dae64686f437d514237afe",
+      "source_path": "assets/branding/social-preview.png",
+      "source_blob_sha": "049e4ffb555c24d266b8dc16519c2778c995174c",
+      "source_url": "https://raw.githubusercontent.com/Qentora/quoptuna/3af60f7295d14dc580dae64686f437d514237afe/assets/branding/social-preview.png",
+      "source_sha256": "5620699b26d1627fc658d8b11406d1e33dd1f27c318f1720ca7fa808d0a96288",
+      "source_bytes": 413045,
+      "source_dimensions": { "width": 1280, "height": 640 },
+      "license": "Apache-2.0",
+      "license_file": {
+        "source_url": "https://raw.githubusercontent.com/Qentora/quoptuna/3af60f7295d14dc580dae64686f437d514237afe/LICENSE",
+        "sha256": "430aacd2f19d3531100114549318e187cbbadbb698bc835d3f4fee6ac046b453",
+        "path": "assets/licenses/quoptuna-LICENSE.txt"
+      },
+      "transform": {
+        "tool": "cwebp",
+        "quality": 88,
+        "method": 6,
+        "resize_width": 1280,
+        "crop": null,
+        "notes": "Original dimensions retained. No crop, compositing, or fabricated interface content."
+      },
+      "width": 1280,
+      "height": 640,
+      "bytes": 35056,
+      "sha256": "540fa0b5642fe5e7e7dc255ced7a90b657a1471e7f0a3646efa10251a3c0e66a",
+      "visually_reviewed": true
+    }
+  ],
+  "fonts": [
+    {
+      "path": "assets/fonts/Manrope.ttf",
+      "family": "Manrope",
+      "style": "normal",
+      "variable_weight_range": [200, 800],
+      "repository": "https://github.com/google/fonts",
+      "commit": "47d54ca1ebb14fd864695f1d39dc734f39017c33",
+      "source_path": "ofl/manrope/Manrope[wght].ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/47d54ca1ebb14fd864695f1d39dc734f39017c33/ofl/manrope/Manrope%5Bwght%5D.ttf",
+      "source_sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+      "bytes": 164700,
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+      "license": "OFL-1.1",
+      "license_path": "assets/fonts/LICENSE.txt",
+      "license_source_url": "https://raw.githubusercontent.com/google/fonts/47d54ca1ebb14fd864695f1d39dc734f39017c33/ofl/manrope/OFL.txt",
+      "license_sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "transform": "Unmodified variable TTF, renamed locally from Manrope[wght].ttf to Manrope.ttf."
+    }
+  ]
+}
