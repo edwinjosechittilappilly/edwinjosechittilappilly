@@ -230,7 +230,6 @@ summary:hover { color: var(--accent); }
   .credentials { padding-left: 1.25rem; }
   .contact-section { gap: 2rem; }
   .site-footer { flex-wrap: wrap; }
-  .site-footer p:nth-child(2) { order: 3; width: 100%; }
 }
 @media (max-width: 600px) {
   :root { --gutter: 1.25rem; }
@@ -302,7 +301,6 @@ summary:hover { color: var(--accent); }
 .print-page article p { margin-top: .25rem; max-width: none; font-size: .9375rem; color: var(--muted); }
 .print-page ul { padding-left: 1.2rem; font-size: .9375rem; }
 .print-page li + li { margin-top: .5rem; }
-.print-disclaimer { margin-top: 2.5rem; font-size: .8125rem; color: var(--muted); }
 @media (max-width: 600px) {
   .print-page { padding-block: 2rem; }
   .print-toolbar { align-items: flex-start; flex-direction: column; }
@@ -374,5 +372,4 @@ summary:hover { color: var(--accent); }
   .print-page article { break-inside: avoid; }
   .print-page article h3 { font-size: 1.05rem; }
   .print-page article p, .print-page li { font-size: .9rem; }
-  .print-disclaimer { margin-top: 1.5rem; }
 }

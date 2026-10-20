@@ -1,0 +1,244 @@
+.publications-page .primary-navigation a[aria-current="page"] {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-underline-offset: .5em;
+}
+
+.publications-page .publications-main {
+  max-width: 72ch;
+  padding-block: clamp(3rem, 6vw, 5.5rem) clamp(4rem, 7vw, 7rem);
+}
+
+.publications-page .publications-intro h1 {
+  font-size: clamp(3rem, 7vw, 5.5rem);
+  line-height: 1.1;
+  letter-spacing: -.04em;
+}
+
+.publications-page .publications-lead {
+  margin-top: 1.5rem;
+  color: var(--text);
+  font-size: clamp(1.125rem, 2vw, 1.375rem);
+  font-weight: 500;
+  line-height: 1.6;
+  text-wrap: pretty;
+}
+
+.publications-page .publications-intro > p + p {
+  margin-top: 1rem;
+  color: var(--muted);
+}
+
+.publications-page .publications-profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.5rem;
+  margin-top: 1.25rem;
+}
+
+.publications-page .publications-contents {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.75rem;
+  margin-block: 2.5rem 0;
+  padding-block: 1rem;
+  border-block: 1px solid var(--line);
+  font-size: .875rem;
+}
+
+.publications-page .publications-contents a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-weight: 600;
+  text-decoration-color: var(--line-strong);
+}
+
+.publications-page .publications-section {
+  margin-top: clamp(3.5rem, 6vw, 5rem);
+}
+
+.publications-page .publications-section h2 {
+  max-width: 25ch;
+  font-size: clamp(1.75rem, 3vw, 2.25rem);
+  line-height: 1.25;
+}
+
+.publications-page .publications-section-intro {
+  margin-top: .875rem;
+  color: var(--muted);
+}
+
+.publications-page .bibliography {
+  list-style: none;
+  padding: 0;
+  margin-top: 1.5rem;
+}
+
+.publications-page .bibliography > li + li {
+  border-top: 1px solid var(--line);
+}
+
+.publications-page .publication-record {
+  padding-block: 1.75rem 2rem;
+}
+
+.publications-page .publication-kind {
+  margin-bottom: .75rem;
+  color: var(--accent);
+  font-size: .875rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.publications-page .publication-record h3 {
+  font-size: clamp(1.125rem, 2vw, 1.375rem);
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -.015em;
+  text-wrap: pretty;
+}
+
+.publications-page .publication-record h3 a {
+  text-decoration-color: var(--line-strong);
+  text-decoration-thickness: 1px;
+}
+
+.publications-page .publication-record h3 a:hover {
+  text-decoration-color: var(--accent);
+}
+
+.publications-page .publication-authors {
+  margin-top: .875rem;
+  color: var(--muted);
+  font-size: .9375rem;
+}
+
+.publications-page .publication-authors strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.publications-page .publication-citation {
+  margin-top: .5rem;
+  color: var(--muted);
+  font-size: .9375rem;
+}
+
+.publications-page .publication-citation cite {
+  font-style: normal;
+}
+
+.publications-page .publication-note {
+  margin-top: .5rem;
+  color: var(--muted);
+  font-size: .875rem;
+}
+
+.publications-page .publication-source {
+  margin-top: .75rem;
+  font-size: .875rem;
+  overflow-wrap: anywhere;
+}
+
+.publications-page .publication-source a {
+  display: inline-block;
+  padding-block: .25rem;
+  text-decoration-color: var(--line-strong);
+}
+
+.publications-page .publications-close {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .75rem 1.5rem;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--line);
+}
+
+.publications-page .publications-close > p {
+  flex-basis: 100%;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+@media (max-width: 600px) {
+  .publications-page .publications-main {
+    padding-top: 2.5rem;
+  }
+
+  .publications-page .publications-contents {
+    gap: .25rem 1.25rem;
+  }
+
+  .publications-page .publication-record {
+    padding-block: 1.5rem 1.75rem;
+  }
+}
+
+@media print {
+  .publications-page .publications-main {
+    width: 100%;
+    max-width: none;
+    padding: 0;
+  }
+
+  .publications-page .publications-intro h1 {
+    font-size: 2.75rem;
+  }
+
+  .publications-page .publications-lead {
+    margin-top: .75rem;
+    font-size: 1.1rem;
+  }
+
+  .publications-page .publications-profile-links,
+  .publications-page .publications-contents,
+  .publications-page .publications-close {
+    display: none;
+  }
+
+  .publications-page .publications-section {
+    margin-top: 1.75rem;
+  }
+
+  .publications-page .publications-section h2 {
+    max-width: none;
+    font-size: 1.5rem;
+  }
+
+  .publications-page .bibliography {
+    margin-top: .5rem;
+  }
+
+  .publications-page .publication-record {
+    padding-block: .875rem 1rem;
+    break-inside: avoid;
+  }
+
+  .publications-page .publication-kind {
+    margin-bottom: .35rem;
+    font-size: .8rem;
+  }
+
+  .publications-page .publication-record h3 {
+    font-size: 1.1rem;
+    line-height: 1.4;
+  }
+
+  .publications-page .publication-authors {
+    margin-top: .5rem;
+  }
+
+  .publications-page .publication-source,
+  .publications-page .publication-note {
+    margin-top: .35rem;
+    font-size: .8rem;
+  }
+
+  .publications-page .publication-source a {
+    padding: 0;
+  }
+}
