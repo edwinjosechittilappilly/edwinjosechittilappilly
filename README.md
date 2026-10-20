@@ -1,10 +1,21 @@
-# Edwin Jose, PhD
-
-**AI product & solution architecture · Open-source engineering · Quantum machine learning**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/header-dark.svg">
+  <img src="assets/profile/header-light.svg" width="840" height="210" alt="Edwin Jose, PhD. AI product and solution architecture, open-source engineering and quantum machine learning.">
+</picture>
 
 I'm a **Software Engineer at IBM** with a **PhD in Computer Science from Western Michigan University**, specializing in quantum machine learning. I work across research, system design and hands-on engineering to turn AI ideas into useful software.
 
 [LinkedIn](https://www.linkedin.com/in/edwinjosechittilappilly/) · [Google Scholar](https://scholar.google.com/citations?user=ixU11F4AAAAJ) · [ORCID](https://orcid.org/0000-0001-5199-8366) · [Email](mailto:edwin.jose@wmich.edu)
+
+## Building in the open
+
+<!-- public-contributions:start -->
+Merged pull requests in selected public projects. Updated 2026-10-20 UTC.
+
+<a href="https://github.com/search?q=repo%3Alangflow-ai%2Flangflow+author%3Aedwinjosechittilappilly+is%3Apr+is%3Amerged+is%3Apublic&amp;type=pullrequests"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/langflow-dark.svg"><img src="assets/profile/langflow-light.svg" width="260" height="165" alt="Langflow: 308 merged public pull requests by edwinjosechittilappilly"></picture></a>
+<a href="https://github.com/search?q=repo%3Alangflow-ai%2Fopenrag+author%3Aedwinjosechittilappilly+is%3Apr+is%3Amerged+is%3Apublic&amp;type=pullrequests"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/openrag-dark.svg"><img src="assets/profile/openrag-light.svg" width="260" height="165" alt="OpenRAG: 256 merged public pull requests by edwinjosechittilappilly"></picture></a>
+<a href="https://github.com/search?q=repo%3AQentora%2Fquoptuna+author%3Aedwinjosechittilappilly+is%3Apr+is%3Amerged+is%3Apublic&amp;type=pullrequests"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/quoptuna-dark.svg"><img src="assets/profile/quoptuna-light.svg" width="260" height="165" alt="Quoptuna: 83 merged public pull requests by edwinjosechittilappilly"></picture></a>
+<!-- public-contributions:end -->
 
 ## Open-source work
 
