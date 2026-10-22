@@ -3,7 +3,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile/profile-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/profile/profile-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile/profile-desktop-dark.svg">
-  <img src="assets/profile/profile-desktop-light.svg" width="960" alt="Edwin Jose. Software Engineer at IBM focused on AI product and solution architecture. Langflow: 308 merged public pull requests; OpenRAG: 256 merged public pull requests; Quoptuna: 83 merged public pull requests. Selected publications, architecture practice, recognition and toolkit. Use the links below for the accessible portfolio and individual papers.">
+  <img src="assets/profile/profile-desktop-light.svg" width="960" alt="Edwin Jose. Software Engineer at IBM focused on AI product and solution architecture. Langflow: 308 merged public pull requests; OpenRAG: 257 merged public pull requests; Quoptuna: 83 merged public pull requests. Selected publications, architecture practice, recognition and toolkit. Use the links below for the accessible portfolio and individual papers.">
 </picture>
 <!-- profile-overview:end -->
 

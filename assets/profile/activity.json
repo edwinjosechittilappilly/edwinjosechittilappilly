@@ -1,6 +1,6 @@
 {
   "account": "edwinjosechittilappilly",
-  "updated_at": "2026-10-21T12:01:28+00:00",
+  "updated_at": "2026-10-22T12:04:05+00:00",
   "scope": "Merged pull requests authored by this account in the listed public repositories only.",
   "projects": [
     {
@@ -17,7 +17,7 @@
       "role": "Core contributor",
       "description": "Retrieval and orchestration, configuration, reproducible environments and developer documentation.",
       "repository": "langflow-ai/openrag",
-      "merged_pull_requests": 256,
+      "merged_pull_requests": 257,
       "api_url": "https://api.github.com/search/issues?q=repo%3Alangflow-ai%2Fopenrag+author%3Aedwinjosechittilappilly+is%3Apr+is%3Amerged+is%3Apublic&per_page=1",
       "search_url": "https://github.com/search?q=repo%3Alangflow-ai%2Fopenrag+author%3Aedwinjosechittilappilly+is%3Apr+is%3Amerged+is%3Apublic&type=pullrequests"
     },
